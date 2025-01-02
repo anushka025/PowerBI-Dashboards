@@ -9,7 +9,8 @@ This repository contains a collection of dashboards created in Power BI, focusin
 - **Key Insights:**
   - Top cities with highest and lowest vacancy rates.
   - Correlation between household volume and vacancy rates.
-- [View PDF](U.S_Metropolitan_Housing_Dynamics.pdf)
+- **PDF Version:** [View PDF](PDFs/U.S_Metropolitan_Housing_Dynamics.pdf)
+- **PBIX File:** [Download PBIX](pbix-files/U.S_Metropolitan_Housing_Dynamics.pbix)
 
 ---
 
@@ -19,7 +20,8 @@ This repository contains a collection of dashboards created in Power BI, focusin
   - Top firms involved in recalls.
   - Common reasons for product recalls.
   - Geographic distribution of recalls.
-- [View PDF](FDA_Product_Recalls_Overview.pdf)
+- **PDF Version:** [View PDF](PDFs/FDA_Product_Recalls_Overview.pdf)
+- **PBIX File:** [Download PBIX](pbix-files/FDA_Product_Recalls_Overview.pbix)
 
 ---
 
@@ -29,7 +31,8 @@ This repository contains a collection of dashboards created in Power BI, focusin
   - Highest-paying job categories and locations.
   - Employment trends by work setting and experience level.
   - Correlation between GDP growth and job growth.
-- [View PDF](Data_Science_Job_Market_Analysis.pdf)
+- **PDF Version:** [View PDF](PDFs/Data_Science_Job_Market_Analysis.pdf)
+- **PBIX File:** [Download PBIX](pbix-files/Data_Science_Job_Market_Analysis.pbix)
 
 ---
 
@@ -52,12 +55,10 @@ Below are a few snapshots of the dashboards:
 1. Clone or download this repository.
 2. Open the PDFs using any PDF viewer to explore the dashboards.
 3. Preview images are provided for quick reference.
+4. For interactive exploration, download the `.pbix` files and open them in Power BI Desktop.
 
 ## 📜 License
 This project is shared under the [MIT License](LICENSE).
+
 ### Terms of Use
 These dashboards are shared for educational and non-commercial purposes. Please provide proper attribution if you reference or reuse this work.
-
-
----
-
